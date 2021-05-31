@@ -1,0 +1,407 @@
+{
+  "project_info": {
+    "project_number": "1020969679470",
+    "firebase_url": "https://appnwebtest-5859a.firebaseio.com",
+    "project_id": "appnwebtest-5859a",
+    "storage_bucket": "appnwebtest-5859a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:c513e27d20629f4b7b847f",
+        "android_client_info": {
+          "package_name": "com.example.a1204_kotlin_gav4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:737a61ff5899ae337b847f",
+        "android_client_info": {
+          "package_name": "com.example.android_dy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:0074eec2ad91f0817b847f",
+        "android_client_info": {
+          "package_name": "com.example.appweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:96db2d13d876176e7b847f",
+        "android_client_info": {
+          "package_name": "com.example.asyncaos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:bd7f2f7d9d28a8ca7b847f",
+        "android_client_info": {
+          "package_name": "com.example.awtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:d13b6224bfd634807b847f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_log_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:c4c3995d76e6ee8c7b847f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_log_event_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:2b93952e9c1d555f7b847f",
+        "android_client_info": {
+          "package_name": "com.example.ga4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:972d98150baba9937b847f",
+        "android_client_info": {
+          "package_name": "com.example.lucky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:67bbe8bedea504e07b847f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020969679470:android:c77445d65d6dc70c7b847f",
+        "android_client_info": {
+          "package_name": "com.goldenplanet.www.gp_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhlhUndnEAjGfgLZcTYcZJv_6_DxkTBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020969679470-2tm2fk816aido2vv7h2r105rec1b39o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020969679470-24u1e8f43hl61lp1rd5pq62jss98eckt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.goldenplanet.objec-ga4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
